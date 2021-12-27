@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Prabhunandan M
-- 👀 I’m interested in JavaScript,react,node and web application development.
+- 👀 I’m interested in JavaScript,React js,Node js and web application development.
 - 🌱 I’m currently learning node.js
 - 📫 How to reach me? Here you go -> prabhunandan66@gmail.com
 
